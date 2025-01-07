@@ -468,3 +468,46 @@ hr {
     transform: scale(1.05);
   }
 }
+.kid-img{
+  position: absolute;
+  width: 35vw;
+  bottom: 5rem;
+  left: 0rem;
+  margin: 0 auto;
+  display: block;
+  filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.5));
+  @media #{$media-size-tablet} {
+    width: 40vw;
+    bottom: 15rem;
+    left: 0rem;
+  }
+}
+
+.girl-img{
+  position: absolute;
+  width: 35vw;
+  bottom: 5rem;
+  right: 0rem;
+  margin: 0 auto;
+  display: block;
+  filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.5));
+  @media #{$media-size-tablet} {
+    width: 40vw;
+    bottom: 15rem;
+    right: 0rem;
+  }
+}
+.books-img{
+  position: absolute;
+  width: 20vw;
+  bottom: 10rem;
+  align-self: center;
+  margin: 0 auto;
+  display: block;
+  filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.5));
+  @media #{$media-size-tablet} {
+    width: 25vw;
+    bottom: 15rem;
+    align-self: center;
+  }
+}

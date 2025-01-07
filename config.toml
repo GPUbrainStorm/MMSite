@@ -224,7 +224,7 @@ disableHugoGeneratorInject = false
   #
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/GPUbrainStorm/MMSite/tree/master"
 
 [languages]
   [languages.en]
