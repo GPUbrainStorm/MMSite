@@ -440,13 +440,13 @@ hr {
   display: block;
   @media #{$media-size-tablet} {
     width: 80%;
-    height: 80%;
   }
 }
 .WelcMessage{
   font-size: 1.5rem;
   font-weight: 600;
   margin-bottom: 1rem;
+  text-shadow: #fff8e1 0px 0px 10px;
   @media #{$media-size-tablet} {
     font-size: 1.2rem;
   }
@@ -475,10 +475,11 @@ hr {
   left: 0rem;
   margin: 0 auto;
   display: block;
+  z-index: -1;
   filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.5));
   @media #{$media-size-tablet} {
     width: 40vw;
-    bottom: 15rem;
+    bottom: 12rem;
     left: 0rem;
   }
 }
@@ -490,10 +491,11 @@ hr {
   right: 0rem;
   margin: 0 auto;
   display: block;
+  z-index: -1;
   filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.5));
   @media #{$media-size-tablet} {
     width: 40vw;
-    bottom: 15rem;
+    bottom: 12rem;
     right: 0rem;
   }
 }
@@ -504,10 +506,11 @@ hr {
   align-self: center;
   margin: 0 auto;
   display: block;
+  z-index: -1;
   filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.5));
   @media #{$media-size-tablet} {
     width: 25vw;
-    bottom: 15rem;
+    bottom: 12rem;
     align-self: center;
   }
 }
