@@ -12,6 +12,7 @@
         </div>
 
         <article>
+            <div class="articleFlex">
             <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
 
             {{ if .Params.Cover }}
@@ -35,6 +36,7 @@
 
             <div class="post-content">
                 {{ .Content }}
+            </div>
             </div>
         </article>
 

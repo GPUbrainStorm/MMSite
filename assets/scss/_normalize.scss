@@ -44,9 +44,15 @@ body {
  */
 
 main {
-  display: block;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
 }
-
+@media (max-width: 768px) { /* Adjust max-width as needed for your breakpoint */
+  main {
+    display: block;
+  }
+}
 /**
  * Correct the font size and margin on `h1` elements within `section` and
  * `article` contexts in Chrome, Firefox, and Safari.

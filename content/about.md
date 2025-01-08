@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "من نحن"
 date = "2025-01-05"
 aliases = ["about-us","about-hugo","contact"]
 [ author ]
@@ -7,4 +7,6 @@ aliases = ["about-us","about-hugo","contact"]
 +++
 
 ![image](/EF_Logo_BR.webp)
-French Learning Website for kids - Multimedia Systems - SVU.
+<div style="text-align: right;">
+    <p>موقع الكتروني لتعليم اللغة الفرنسية للأطفال - الوسائط المتعددة - الجامعة الافتراضية السورية.</p>
+</div>

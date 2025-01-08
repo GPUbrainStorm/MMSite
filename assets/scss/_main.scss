@@ -1,3 +1,11 @@
+@font-face {
+  font-family: 'DIN';
+  src: url('/fonts/DIN.ttf') format('truetype'),
+       url('/fonts/DIN.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 html {
   box-sizing: border-box;
   line-height: 1.6;
@@ -12,9 +20,10 @@ html {
 }
 
 body {
+  direction: rtl;
   margin: 0;
   padding: 0;
-  font-family: Inter, -apple-system, BlinkMacSystemFont, "Roboto",
+  font-family: 'DIN',Inter, -apple-system, BlinkMacSystemFont, "Roboto",
     "Segoe UI", Helvetica, Arial, sans-serif;
   font-display: auto;
   font-size: 1rem;
@@ -70,6 +79,7 @@ h6 {
 
 h1 {
   font-size: 2.625rem;
+  align-self: flex-start;
 }
 
 h2 {
@@ -482,6 +492,21 @@ hr {
     bottom: 12rem;
     left: 0rem;
   }
+  &-lessons {
+    position: absolute;
+    width: 40vw;
+    bottom: 5rem;
+    left: 0rem;
+    margin: 0 auto;
+    display: block;
+    z-index: -1;
+    filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.5));
+    @media #{$media-size-tablet} {
+      width: 45vw;
+      bottom: 12rem;
+      left: 0rem;
+    }
+  }
 }
 
 .girl-img{
@@ -513,4 +538,11 @@ hr {
     bottom: 12rem;
     align-self: center;
   }
+}
+th {
+  color: #FFF8E1;
+  text-align: center;
+}
+tr {
+  text-align: center;
 }

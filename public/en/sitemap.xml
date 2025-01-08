@@ -2,57 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/lessons/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/lessons/creation-dun-nouveau-theme/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/lessons/creating-a-new-theme/"
-                />
+    <loc>http://localhost:1313/lessons/2025/01/%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D9%88%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%81%D9%88%D8%A7%D9%83%D9%87-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2014/09/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/2014/09/creating-a-new-theme/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/lessons/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/lessons/migrer-vers-hugo-depuis-jekyll/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/lessons/migrate-from-jekyll/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/posts/2014/03/migrate-to-hugo-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/posts/2014/03/migrer-vers-hugo-depuis-jekyll/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/2014/03/migrate-to-hugo-from-jekyll/"
-                />
+    <loc>http://localhost:1313/lessons/2025/01/%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D9%81-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-01-05T00:00:00+00:00</lastmod>
@@ -71,36 +25,13 @@
     <lastmod>2025-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/series/hugo-101/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/lessons/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/lessons/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/lessons/"
-                />
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/"
-                />
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/series/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -112,34 +43,13 @@
                 href="http://localhost:1313/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/lessons/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/lessons/introduction-aux-modeles-hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/lessons/goisforlovers/"
-                />
+    <loc>http://localhost:1313/lessons/2025/01/%D8%A3%D9%82%D8%B3%D8%A7%D9%85-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%86%D8%B2%D9%84-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2014/04/hugo-template-primer/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/2014/04/hugo-template-primer/"
-                />
+    <loc>http://localhost:1313/lessons/2025/01/%D8%A7%D9%84%D8%AA%D8%AD%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D8%A8%D8%A7%D9%84%D9%86%D9%81%D8%B3/</loc>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -151,52 +61,7 @@
                 href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/lessons/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/lessons/debuter-avec-hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/lessons/hugoisforlovers/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/posts/2014/04/getting-started-with-hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/posts/2014/04/d%C3%A9buter-avec-hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/2014/04/getting-started-with-hugo/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -207,11 +72,5 @@
                 hreflang="en"
                 href="http://localhost:1313/tags/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
 </urlset>

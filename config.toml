@@ -44,7 +44,7 @@ disableHugoGeneratorInject = false
 #     ID = 'G-MEASUREMENT_ID'
 
 [permalinks]
-  posts = "/posts/:year/:month/:title/"
+  posts = "/lessons/:year/:month/:title/"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -55,10 +55,10 @@ disableHugoGeneratorInject = false
   series   = "series"
 
 [params]
-  dateform        = "Jan 25, 2006"
-  dateformShort   = "Jan 5"
-  dateformNum     = "2006-01-05"
-  dateformNumTime = "2006-01-05 15:04"
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
 
   # Metadata mostly used in document's head
   # 
@@ -143,7 +143,7 @@ disableHugoGeneratorInject = false
 
   [params.logo]
     logoMark     = ">"
-    logoText     = "Easy French"
+    logoText     = "الفرنسية بسهولة"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
@@ -242,9 +242,12 @@ disableHugoGeneratorInject = false
 [menu]
   [[menu.main]]
     identifier = "about"
-    name       = "About"
+    name       = "من نحن"
     url        = "about/"
   [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
+    identifier = "lessons"
+    name       = "الدروس"
     url        = "posts/"
+
+[markup.goldmark.renderer]
+  unsafe = true
