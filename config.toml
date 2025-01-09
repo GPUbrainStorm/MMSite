@@ -1,4 +1,4 @@
-baseURL = "https://gpubrainstorm.github.io/"
+baseURL = "https://gpubrainstorm.github.io/MMSite"
 title   = ""
 languageCode = "en-us"
 theme = "hello-friend-ng"
