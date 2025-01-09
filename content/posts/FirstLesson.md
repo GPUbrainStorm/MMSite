@@ -65,8 +65,8 @@ series:
 
 تعلم الأحرف بطريقة ممتعة من خلال الأغنية التالية:
 
-<video width="100%" controls poster="/LettersSongThumbnail.webp">
-    <source src="/MMSite/videos/LettersSong.mp4" type="video/mp4">
+<video width="100%" controls poster="/MMSite/LettersSongThumbnail.webp">
+    <source src="/MMSite/Videos/LettersSong.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
@@ -81,6 +81,7 @@ series:
 
 <script>
 function playSound(fileName) {
+    fileName = fileName.toLowerCase();
     // Construct the file path based on the audio folder in the static directory
     const audio = new Audio('/MMSite/audio/' + fileName);
     audio.play();

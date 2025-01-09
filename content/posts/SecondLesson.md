@@ -41,7 +41,7 @@ series:
 
 تم انشاء هذه الصورة باستخدام الذكاء الاصطناعي.
 <div style="text-align: center;">
-    <img src="/Conversation.webp" alt="Conversation" width="100%">
+    <img src="/MMSite/Conversation.webp" alt="Conversation" width="100%">
 </div>
 
 ---
@@ -50,8 +50,8 @@ series:
 
 تعلم المزيد عن التحية والتعريف بالنفس من خلال الفيديو التالي:
 
-<video width="100%" controls poster="/SelfIntroductionThumbnail.webp">
-    <source src="/videos/SelfIntroduction.mp4" type="video/mp4">
+<video width="100%" controls poster="/MMSite/SelfIntroductionThumbnail.webp">
+    <source src="/MMSite/Videos/SelfIntroduction.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
@@ -65,7 +65,7 @@ series:
 <script>
 function playSound(fileName) {
     // Construct the file path based on the audio folder in the static directory
-    const audio = new Audio('/audio/' + fileName);
+    const audio = new Audio('/MMSite/audio/' + fileName);
     audio.play();
 }
 </script>

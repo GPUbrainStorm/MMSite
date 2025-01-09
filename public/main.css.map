@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "D:/SVU/MM/Website/MMSite",
+	"sourceRoot": "D:/SVU/MM/Website/MMsite",
 	"sources": [
 		"assets/scss/main.scss",
 		"assets/scss/_normalize.scss",
