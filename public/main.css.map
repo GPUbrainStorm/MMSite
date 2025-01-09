@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "D:/SVU/MM/MMSite",
+	"sourceRoot": "C:/Users/mo7mm/OneDrive/Documents/GitHub/MMSite",
 	"sources": [
 		"assets/scss/main.scss",
 		"assets/scss/_normalize.scss",
