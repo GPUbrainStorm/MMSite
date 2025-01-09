@@ -6,7 +6,7 @@ aliases = ["about-us","about-hugo","contact"]
   name = "Easy French - MM Homework"
 +++
 
-![image](/EF_Logo_BR.webp)
+![image](/MMSite/EF_Logo_BR.webp)
 <div style="text-align: right;">
     <p>موقع الكتروني لتعليم اللغة الفرنسية للأطفال - الوسائط المتعددة - الجامعة الافتراضية السورية.</p>
 </div>
