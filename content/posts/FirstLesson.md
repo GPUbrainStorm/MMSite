@@ -1,6 +1,6 @@
 ---
 author:
-  name: "Michael Henderson"
+  name: "MM"
 date: 2025-01-01
 linktitle: الأحرف باللغة الفرنسية
 type:
@@ -9,7 +9,7 @@ type:
 title:  الأحرف باللغة الفرنسية
 weight: 10
 series:
-- Hugo 101
+- French
 ---
 
 <div style="text-align: right;">
@@ -65,9 +65,10 @@ series:
 
 تعلم الأحرف بطريقة ممتعة من خلال الأغنية التالية:
 
-
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/zlSRop3qC0M?si=h14-YgxdU-xcl67Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<video width="100%" controls poster="/LettersSongThumbnail.webp">
+    <source src="/videos/LettersSong.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 ---
 
