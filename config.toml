@@ -243,11 +243,11 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "about"
     name       = "من نحن"
-    url        = "/MMSite/about/"
+    url        = "/about/"
   [[menu.main]]
     identifier = "lessons"
     name       = "الدروس"
-    url        = "/MMSite/posts/"
+    url        = "/posts/"
 
 [markup.goldmark.renderer]
   unsafe = true
