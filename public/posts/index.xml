@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on </title>
-        <link>https://gpubrainstorm.github.io/MMSite/posts/</link>
+        <link>http://localhost:1313/MMSite/posts/</link>
         <description>Recent content in Posts on </description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://gpubrainstorm.github.io/MMSite/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/MMSite/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>الأحرف باللغة الفرنسية</title>
-            <link>https://gpubrainstorm.github.io/MMSite/lessons/2025/01/%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D9%81-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/</link>
+            <link>http://localhost:1313/MMSite/lessons/2025/01/%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D9%81-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/</link>
             <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
             
-            <guid>https://gpubrainstorm.github.io/MMSite/lessons/2025/01/%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D9%81-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/</guid>
+            <guid>http://localhost:1313/MMSite/lessons/2025/01/%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D9%81-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/</guid>
             <description>&lt;div style=&#34;text-align: right;&#34;&gt;
 &lt;h2 id=&#34;أهلا-بكم-في-الدرس-الأول-تعلم-الأحرف-باللغة-الفرنسية&#34;&gt;أهلاً بكم في الدرس الأول: تعلّم الأحرف باللغة الفرنسية!&lt;/h2&gt;
 &lt;h3 id=&#34;الأحرف-الفرنسية-les-lettres-de-lalphabet-français&#34;&gt;الأحرف الفرنسية (Les Lettres de l&amp;rsquo;Alphabet Français)&lt;/h3&gt;
@@ -334,10 +334,10 @@ function playSound(fileName) {
         
         <item>
             <title>التحية والتعريف بالنفس باللغة الفرنسية</title>
-            <link>https://gpubrainstorm.github.io/MMSite/lessons/2025/01/%D8%A7%D9%84%D8%AA%D8%AD%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D8%A8%D8%A7%D9%84%D9%86%D9%81%D8%B3-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/</link>
+            <link>http://localhost:1313/MMSite/lessons/2025/01/%D8%A7%D9%84%D8%AA%D8%AD%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D8%A8%D8%A7%D9%84%D9%86%D9%81%D8%B3-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/</link>
             <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
             
-            <guid>https://gpubrainstorm.github.io/MMSite/lessons/2025/01/%D8%A7%D9%84%D8%AA%D8%AD%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D8%A8%D8%A7%D9%84%D9%86%D9%81%D8%B3-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/</guid>
+            <guid>http://localhost:1313/MMSite/lessons/2025/01/%D8%A7%D9%84%D8%AA%D8%AD%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D8%A8%D8%A7%D9%84%D9%86%D9%81%D8%B3-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/</guid>
             <description>&lt;div style=&#34;text-align: right;&#34;&gt;
 &lt;h2 id=&#34;أهلا-بكم-في-الدرس-الثاني-التحية-والتعريف-بالنفس-باللغة-الفرنسية&#34;&gt;أهلاً بكم في الدرس الثاني: التحية والتعريف بالنفس باللغة الفرنسية!&lt;/h2&gt;
 &lt;h3 id=&#34;التحية-والتعريف-بالنفس-saluer-et-se-présenter&#34;&gt;التحية والتعريف بالنفس (Saluer et Se Présenter)&lt;/h3&gt;
@@ -484,10 +484,10 @@ function playSound(fileName) {
         
         <item>
             <title>تعلم الخضراوات والفواكه باللغة الفرنسية</title>
-            <link>https://gpubrainstorm.github.io/MMSite/lessons/2025/01/%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D9%88%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%81%D9%88%D8%A7%D9%83%D9%87-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/</link>
+            <link>http://localhost:1313/MMSite/lessons/2025/01/%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D9%88%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%81%D9%88%D8%A7%D9%83%D9%87-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/</link>
             <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
             
-            <guid>https://gpubrainstorm.github.io/MMSite/lessons/2025/01/%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D9%88%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%81%D9%88%D8%A7%D9%83%D9%87-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/</guid>
+            <guid>http://localhost:1313/MMSite/lessons/2025/01/%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D9%88%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%81%D9%88%D8%A7%D9%83%D9%87-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/</guid>
             <description>&lt;div style=&#34;text-align: right;&#34;&gt;
 &lt;h2 id=&#34;أهلا-بكم-في-الدرس-الثالث-تعلم-الخضراوات-والفواكه-باللغة-الفرنسية&#34;&gt;أهلاً بكم في الدرس الثالث: تعلّم الخضراوات والفواكه باللغة الفرنسية!&lt;/h2&gt;
 &lt;h3 id=&#34;الخضار-les-légumes&#34;&gt;الخضار (Les Légumes)&lt;/h3&gt;
@@ -504,25 +504,25 @@ function playSound(fileName) {
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img src=&#34;https://gpubrainstorm.github.io/MMSite/images/tomato.webp&#34; alt=&#34;Tomato&#34; width=&#34;100%&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;img src=&#34;http://localhost:1313/MMSite/images/tomato.webp&#34; alt=&#34;Tomato&#34; width=&#34;100%&#34;&gt;&lt;/td&gt;
           &lt;td&gt;طماطم&lt;/td&gt;
           &lt;td&gt;Tomate&lt;/td&gt;
           &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;Tomate.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img src=&#34;https://gpubrainstorm.github.io/MMSite/images/carrot.webp&#34; alt=&#34;Carrot&#34; width=&#34;100%&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;img src=&#34;http://localhost:1313/MMSite/images/carrot.webp&#34; alt=&#34;Carrot&#34; width=&#34;100%&#34;&gt;&lt;/td&gt;
           &lt;td&gt;جزر&lt;/td&gt;
           &lt;td&gt;Carotte&lt;/td&gt;
           &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;Carotte.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img src=&#34;https://gpubrainstorm.github.io/MMSite/images/potato.webp&#34; alt=&#34;Potato&#34; width=&#34;100%&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;img src=&#34;http://localhost:1313/MMSite/images/potato.webp&#34; alt=&#34;Potato&#34; width=&#34;100%&#34;&gt;&lt;/td&gt;
           &lt;td&gt;بطاطا&lt;/td&gt;
           &lt;td&gt;Pomme de Terre&lt;/td&gt;
           &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;potato.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img src=&#34;https://gpubrainstorm.github.io/MMSite/images/cucumber.webp&#34; alt=&#34;Cucumber&#34; width=&#34;100%&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;img src=&#34;http://localhost:1313/MMSite/images/cucumber.webp&#34; alt=&#34;Cucumber&#34; width=&#34;100%&#34;&gt;&lt;/td&gt;
           &lt;td&gt;خيار&lt;/td&gt;
           &lt;td&gt;Concombre&lt;/td&gt;
           &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;Concombre.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
