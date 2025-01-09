@@ -26,7 +26,7 @@ series:
 | <img src="/MMSite/images/tomato.webp" alt="Tomato" width="100%"> | طماطم          | Tomate                | <div style="display: flex; justify-content: center;"><button onclick="playSound('Tomate.mp3')">🔊</button></div> |
 | <img src="/MMSite/images/carrot.webp" alt="Carrot" width="100%"> | جزر            | Carotte               | <div style="display: flex; justify-content: center;"><button onclick="playSound('Carotte.mp3')">🔊</button></div> |
 | <img src="/MMSite/images/potato.webp" alt="Potato" width="100%"> | بطاطا          | Pomme de Terre        | <div style="display: flex; justify-content: center;"><button onclick="playSound('potato.mp3')">🔊</button></div> |
-| <img src="/MMSite/images/cucumber.webp" alt="Cucumber" width="100%"> | خيار           | Concombre             | <div style="display: flex; justify-content: center;"><button onclick="playSound('Concombre.mp3')">🔊</button></div> |
+| <img src="/MMSite/images/Cucumber.webp" alt="Cucumber" width="100%"> | خيار           | Concombre             | <div style="display: flex; justify-content: center;"><button onclick="playSound('Concombre.mp3')">🔊</button></div> |
 
 ---
 
