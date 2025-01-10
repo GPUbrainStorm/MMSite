@@ -532,7 +532,7 @@ hr {
   margin: 0 auto;
   display: block;
   z-index: -1;
-  filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.5));
+  //filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.5));
   @media #{$media-size-tablet} {
     width: 25vw;
     bottom: 12rem;
