@@ -1,16 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>http://localhost:1313/MMSite/en/sitemap.xml</loc>
-    
-      <lastmod>2025-01-05T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/MMSite/fr/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/MMSite/lessons/2025/01/%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D9%81-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/MMSite/lessons/2025/01/%D8%A7%D9%84%D8%AA%D8%AD%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D8%A8%D8%A7%D9%84%D9%86%D9%81%D8%B3-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/</loc>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/MMSite/lessons/2025/01/%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D9%88%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%81%D9%88%D8%A7%D9%83%D9%87-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/MMSite/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/MMSite/about/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/MMSite/series/french/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/MMSite/posts/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/MMSite/series/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/MMSite/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/MMSite/tags/</loc>
+  </url>
+</urlset>

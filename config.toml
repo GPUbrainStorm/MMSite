@@ -131,12 +131,6 @@ disableHugoGeneratorInject = false
   [languages.en.params]
     subtitle  = "Happy Learning"
 
-  [languages.fr]
-    weight    = 2
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  [languages.fr.params]
-    subtitle  = "Happy Learning"
-
 [menu]
   [[menu.main]]
     identifier = "about"

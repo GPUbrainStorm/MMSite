@@ -82,7 +82,6 @@ series:
 <script>
 function playSound(fileName) {
     fileName = fileName.toLowerCase();
-    // Construct the file path based on the audio folder in the static directory
     const audio = new Audio('/MMSite/audio/' + fileName);
     audio.play();
 }
