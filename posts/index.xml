@@ -1,0 +1,637 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on </title>
+        <link>https://gpubrainstorm.github.io/MMSite/posts/</link>
+        <description>Recent content in Posts on </description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://gpubrainstorm.github.io/MMSite/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>الأحرف باللغة الفرنسية</title>
+            <link>https://gpubrainstorm.github.io/MMSite/lessons/2025/01/%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D9%81-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/</link>
+            <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+            
+            <guid>https://gpubrainstorm.github.io/MMSite/lessons/2025/01/%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D9%81-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/</guid>
+            <description>&lt;div style=&#34;text-align: right;&#34;&gt;
+&lt;h2 id=&#34;أهلا-بكم-في-الدرس-الأول-تعلم-الأحرف-باللغة-الفرنسية&#34;&gt;أهلاً بكم في الدرس الأول: تعلّم الأحرف باللغة الفرنسية!&lt;/h2&gt;
+&lt;h3 id=&#34;الأحرف-الفرنسية-les-lettres-de-lalphabet-français&#34;&gt;الأحرف الفرنسية (Les Lettres de l&amp;rsquo;Alphabet Français)&lt;/h3&gt;
+&lt;p&gt;الأبجدية الفرنسية تتكون من 26 حرفًا، تمامًا كالأبجدية الإنجليزية. دعونا نتعلمها معًا! يمكنك النقر على أي حرف للاستماع إلى نطقه.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;الأحرف-مع-النطق-الصوتي&#34;&gt;الأحرف مع النطق الصوتي:&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;الحرف&lt;/th&gt;
+          &lt;th&gt;النطق بالعربية&lt;/th&gt;
+          &lt;th&gt;استمع للنطق&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;A&lt;/td&gt;
+          &lt;td&gt;آ&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;A.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;B&lt;/td&gt;
+          &lt;td&gt;بيه&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;B.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;C&lt;/td&gt;
+          &lt;td&gt;سيه&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;C.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;D&lt;/td&gt;
+          &lt;td&gt;ديه&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;D.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;E&lt;/td&gt;
+          &lt;td&gt;أُ&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;E.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;F&lt;/td&gt;
+          &lt;td&gt;إف&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;F.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;G&lt;/td&gt;
+          &lt;td&gt;جيه&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;G.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;H&lt;/td&gt;
+          &lt;td&gt;آش&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;H.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;I&lt;/td&gt;
+          &lt;td&gt;إي&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;I.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;J&lt;/td&gt;
+          &lt;td&gt;جيه&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;J.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;K&lt;/td&gt;
+          &lt;td&gt;كا&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;K.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;L&lt;/td&gt;
+          &lt;td&gt;إل&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;L.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;M&lt;/td&gt;
+          &lt;td&gt;إم&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;M.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;N&lt;/td&gt;
+          &lt;td&gt;إن&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;N.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;O&lt;/td&gt;
+          &lt;td&gt;أُ&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;O.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;P&lt;/td&gt;
+          &lt;td&gt;بيه&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;P.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Q&lt;/td&gt;
+          &lt;td&gt;كيو&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;Q.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;R&lt;/td&gt;
+          &lt;td&gt;إغ&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;R.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;S&lt;/td&gt;
+          &lt;td&gt;إس&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;S.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;T&lt;/td&gt;
+          &lt;td&gt;تيه&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;T.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;U&lt;/td&gt;
+          &lt;td&gt;أُ&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;U.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;V&lt;/td&gt;
+          &lt;td&gt;فيه&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;V.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;W&lt;/td&gt;
+          &lt;td&gt;دوبل في&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;W.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;إيكس&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;X.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Y&lt;/td&gt;
+          &lt;td&gt;إيغغيك&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;Y.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Z&lt;/td&gt;
+          &lt;td&gt;زيد&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;Z.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;أغنية-الأحرف-الفرنسية&#34;&gt;أغنية الأحرف الفرنسية:&lt;/h3&gt;
+&lt;p&gt;تعلم الأحرف بطريقة ممتعة من خلال الأغنية التالية:&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<div style="text-align: right;">
+<h2 id="أهلا-بكم-في-الدرس-الأول-تعلم-الأحرف-باللغة-الفرنسية">أهلاً بكم في الدرس الأول: تعلّم الأحرف باللغة الفرنسية!</h2>
+<h3 id="الأحرف-الفرنسية-les-lettres-de-lalphabet-français">الأحرف الفرنسية (Les Lettres de l&rsquo;Alphabet Français)</h3>
+<p>الأبجدية الفرنسية تتكون من 26 حرفًا، تمامًا كالأبجدية الإنجليزية. دعونا نتعلمها معًا! يمكنك النقر على أي حرف للاستماع إلى نطقه.</p>
+<hr>
+<h3 id="الأحرف-مع-النطق-الصوتي">الأحرف مع النطق الصوتي:</h3>
+<table>
+  <thead>
+      <tr>
+          <th>الحرف</th>
+          <th>النطق بالعربية</th>
+          <th>استمع للنطق</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>A</td>
+          <td>آ</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('A.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>B</td>
+          <td>بيه</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('B.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>C</td>
+          <td>سيه</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('C.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>D</td>
+          <td>ديه</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('D.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>E</td>
+          <td>أُ</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('E.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>F</td>
+          <td>إف</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('F.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>G</td>
+          <td>جيه</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('G.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>H</td>
+          <td>آش</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('H.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>I</td>
+          <td>إي</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('I.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>J</td>
+          <td>جيه</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('J.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>K</td>
+          <td>كا</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('K.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>L</td>
+          <td>إل</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('L.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>M</td>
+          <td>إم</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('M.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>N</td>
+          <td>إن</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('N.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>O</td>
+          <td>أُ</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('O.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>P</td>
+          <td>بيه</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('P.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>Q</td>
+          <td>كيو</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('Q.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>R</td>
+          <td>إغ</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('R.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>S</td>
+          <td>إس</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('S.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>T</td>
+          <td>تيه</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('T.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>U</td>
+          <td>أُ</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('U.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>V</td>
+          <td>فيه</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('V.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>W</td>
+          <td>دوبل في</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('W.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>X</td>
+          <td>إيكس</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('X.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>Y</td>
+          <td>إيغغيك</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('Y.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>Z</td>
+          <td>زيد</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('Z.mp3')">🔊</button></div></td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h3 id="أغنية-الأحرف-الفرنسية">أغنية الأحرف الفرنسية:</h3>
+<p>تعلم الأحرف بطريقة ممتعة من خلال الأغنية التالية:</p>
+<video width="100%" controls poster="/MMSite/LettersSongThumbnail.webp">
+    <source src="/MMSite/Videos/LettersSong.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+<hr>
+<h3 id="نصيحة">نصيحة:</h3>
+<p>كرّر الأحرف بصوت عالٍ واستمع جيدًا للنطق، ثم حاول غناء الأغنية لتتذكر الأحرف بسهولة! 😊</p>
+</div>
+<script>
+function playSound(fileName) {
+    fileName = fileName.toLowerCase();
+    // Construct the file path based on the audio folder in the static directory
+    const audio = new Audio('/MMSite/audio/' + fileName);
+    audio.play();
+}
+</script>]]></content>
+        </item>
+        
+        <item>
+            <title>التحية والتعريف بالنفس باللغة الفرنسية</title>
+            <link>https://gpubrainstorm.github.io/MMSite/lessons/2025/01/%D8%A7%D9%84%D8%AA%D8%AD%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D8%A8%D8%A7%D9%84%D9%86%D9%81%D8%B3-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/</link>
+            <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+            
+            <guid>https://gpubrainstorm.github.io/MMSite/lessons/2025/01/%D8%A7%D9%84%D8%AA%D8%AD%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D8%A8%D8%A7%D9%84%D9%86%D9%81%D8%B3-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/</guid>
+            <description>&lt;div style=&#34;text-align: right;&#34;&gt;
+&lt;h2 id=&#34;أهلا-بكم-في-الدرس-الثاني-التحية-والتعريف-بالنفس-باللغة-الفرنسية&#34;&gt;أهلاً بكم في الدرس الثاني: التحية والتعريف بالنفس باللغة الفرنسية!&lt;/h2&gt;
+&lt;h3 id=&#34;التحية-والتعريف-بالنفس-saluer-et-se-présenter&#34;&gt;التحية والتعريف بالنفس (Saluer et Se Présenter)&lt;/h3&gt;
+&lt;p&gt;تعلم كيفية إلقاء التحية والتعريف بنفسك هو أول خطوة لتعلم اللغة الفرنسية. دعونا نبدأ معًا!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;العبارات-مع-النطق-الصوتي&#34;&gt;العبارات مع النطق الصوتي:&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;العبارة&lt;/th&gt;
+          &lt;th&gt;الترجمة بالعربية&lt;/th&gt;
+          &lt;th&gt;استمع للنطق&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Bonjour&lt;/td&gt;
+          &lt;td&gt;صباح الخير / مرحبًا&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;Bonjour.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Comment ça va ?&lt;/td&gt;
+          &lt;td&gt;كيف حالك؟&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;Comment.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ca va bien&lt;/td&gt;
+          &lt;td&gt;أنا بخير&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;bien.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;comment tu t&amp;rsquo;appelles?&lt;/td&gt;
+          &lt;td&gt;ما اسمك؟&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;appelles.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Je m&amp;rsquo;appelle [Nom]&lt;/td&gt;
+          &lt;td&gt;اسمي [اسمك]&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;Name.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Enchanté&lt;/td&gt;
+          &lt;td&gt;تشرفت بمعرفتك&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;Enchante.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Merci&lt;/td&gt;
+          &lt;td&gt;شكرًا&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;Merci.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Au revoir&lt;/td&gt;
+          &lt;td&gt;إلى اللقاء&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;orvuor.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;صورة-توضيحية&#34;&gt;صورة توضيحية:&lt;/h3&gt;
+&lt;p&gt;تم انشاء هذه الصورة باستخدام الذكاء الاصطناعي.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<div style="text-align: right;">
+<h2 id="أهلا-بكم-في-الدرس-الثاني-التحية-والتعريف-بالنفس-باللغة-الفرنسية">أهلاً بكم في الدرس الثاني: التحية والتعريف بالنفس باللغة الفرنسية!</h2>
+<h3 id="التحية-والتعريف-بالنفس-saluer-et-se-présenter">التحية والتعريف بالنفس (Saluer et Se Présenter)</h3>
+<p>تعلم كيفية إلقاء التحية والتعريف بنفسك هو أول خطوة لتعلم اللغة الفرنسية. دعونا نبدأ معًا!</p>
+<hr>
+<h3 id="العبارات-مع-النطق-الصوتي">العبارات مع النطق الصوتي:</h3>
+<table>
+  <thead>
+      <tr>
+          <th>العبارة</th>
+          <th>الترجمة بالعربية</th>
+          <th>استمع للنطق</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Bonjour</td>
+          <td>صباح الخير / مرحبًا</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('Bonjour.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>Comment ça va ?</td>
+          <td>كيف حالك؟</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('Comment.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>Ca va bien</td>
+          <td>أنا بخير</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('bien.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>comment tu t&rsquo;appelles?</td>
+          <td>ما اسمك؟</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('appelles.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>Je m&rsquo;appelle [Nom]</td>
+          <td>اسمي [اسمك]</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('Name.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>Enchanté</td>
+          <td>تشرفت بمعرفتك</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('Enchante.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>Merci</td>
+          <td>شكرًا</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('Merci.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td>Au revoir</td>
+          <td>إلى اللقاء</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('orvuor.mp3')">🔊</button></div></td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h3 id="صورة-توضيحية">صورة توضيحية:</h3>
+<p>تم انشاء هذه الصورة باستخدام الذكاء الاصطناعي.</p>
+<div style="text-align: center;">
+    <img src="/MMSite/Conversation.webp" alt="Conversation" width="100%">
+</div>
+<hr>
+<h3 id="فيديو-توضيحي">فيديو توضيحي:</h3>
+<p>تعلم المزيد عن التحية والتعريف بالنفس من خلال الفيديو التالي:</p>
+<video width="100%" controls poster="/MMSite/SelfIntroductionThumbnail.webp">
+    <source src="/MMSite/Videos/SelfIntroduction.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+<hr>
+<h3 id="نصيحة">نصيحة:</h3>
+<p>كرّر الجمل بصوت عالٍ واستمع للنطق الصحيح أكثر من مرة. حاول أن تحاكي النطق لتحسن من مهاراتك! 😊</p>
+</div>
+<script>
+function playSound(fileName) {
+    // Construct the file path based on the audio folder in the static directory
+    const audio = new Audio('/MMSite/audio/' + fileName);
+    audio.play();
+}
+</script>
+]]></content>
+        </item>
+        
+        <item>
+            <title>تعلم الخضراوات والفواكه باللغة الفرنسية</title>
+            <link>https://gpubrainstorm.github.io/MMSite/lessons/2025/01/%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D9%88%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%81%D9%88%D8%A7%D9%83%D9%87-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/</link>
+            <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+            
+            <guid>https://gpubrainstorm.github.io/MMSite/lessons/2025/01/%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D9%88%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%81%D9%88%D8%A7%D9%83%D9%87-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/</guid>
+            <description>&lt;div style=&#34;text-align: right;&#34;&gt;
+&lt;h2 id=&#34;أهلا-بكم-في-الدرس-الثالث-تعلم-الخضراوات-والفواكه-باللغة-الفرنسية&#34;&gt;أهلاً بكم في الدرس الثالث: تعلّم الخضراوات والفواكه باللغة الفرنسية!&lt;/h2&gt;
+&lt;h3 id=&#34;الخضار-les-légumes&#34;&gt;الخضار (Les Légumes)&lt;/h3&gt;
+&lt;p&gt;في هذا القسم سنتعلم أسماء بعض الخضروات باللغة الفرنسية. اضغط على الزر لسماع طريقة نطق الكلمة!
+جميع الصور في هذا الدرس تم إنشاؤها بواسطة الذكاء الاصطناعي.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;الصورة&lt;/th&gt;
+          &lt;th&gt;الاسم بالعربية&lt;/th&gt;
+          &lt;th&gt;الاسم بالفرنسية&lt;/th&gt;
+          &lt;th&gt;استمع للنطق&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img src=&#34;https://gpubrainstorm.github.io/MMSite/MMSite/images/tomato.webp&#34; alt=&#34;Tomato&#34; width=&#34;100%&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;طماطم&lt;/td&gt;
+          &lt;td&gt;Tomate&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;Tomate.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img src=&#34;https://gpubrainstorm.github.io/MMSite/MMSite/images/carrot.webp&#34; alt=&#34;Carrot&#34; width=&#34;100%&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;جزر&lt;/td&gt;
+          &lt;td&gt;Carotte&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;Carotte.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img src=&#34;https://gpubrainstorm.github.io/MMSite/MMSite/images/potato.webp&#34; alt=&#34;Potato&#34; width=&#34;100%&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;بطاطا&lt;/td&gt;
+          &lt;td&gt;Pomme de Terre&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;potato.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img src=&#34;https://gpubrainstorm.github.io/MMSite/MMSite/images/Cucumber.webp&#34; alt=&#34;Cucumber&#34; width=&#34;100%&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;خيار&lt;/td&gt;
+          &lt;td&gt;Concombre&lt;/td&gt;
+          &lt;td&gt;&lt;div style=&#34;display: flex; justify-content: center;&#34;&gt;&lt;button onclick=&#34;playSound(&#39;Concombre.mp3&#39;)&#34;&gt;🔊&lt;/button&gt;&lt;/div&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;الفواكه-les-fruits&#34;&gt;الفواكه (Les Fruits)&lt;/h3&gt;
+&lt;p&gt;والآن دعونا نتعلم أسماء بعض الفواكه باللغة الفرنسية. اضغط على الزر لسماع طريقة نطق الكلمة!&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<div style="text-align: right;">
+<h2 id="أهلا-بكم-في-الدرس-الثالث-تعلم-الخضراوات-والفواكه-باللغة-الفرنسية">أهلاً بكم في الدرس الثالث: تعلّم الخضراوات والفواكه باللغة الفرنسية!</h2>
+<h3 id="الخضار-les-légumes">الخضار (Les Légumes)</h3>
+<p>في هذا القسم سنتعلم أسماء بعض الخضروات باللغة الفرنسية. اضغط على الزر لسماع طريقة نطق الكلمة!
+جميع الصور في هذا الدرس تم إنشاؤها بواسطة الذكاء الاصطناعي.</p>
+<table>
+  <thead>
+      <tr>
+          <th>الصورة</th>
+          <th>الاسم بالعربية</th>
+          <th>الاسم بالفرنسية</th>
+          <th>استمع للنطق</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><img src="/MMSite/images/tomato.webp" alt="Tomato" width="100%"></td>
+          <td>طماطم</td>
+          <td>Tomate</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('Tomate.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td><img src="/MMSite/images/carrot.webp" alt="Carrot" width="100%"></td>
+          <td>جزر</td>
+          <td>Carotte</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('Carotte.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td><img src="/MMSite/images/potato.webp" alt="Potato" width="100%"></td>
+          <td>بطاطا</td>
+          <td>Pomme de Terre</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('potato.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td><img src="/MMSite/images/Cucumber.webp" alt="Cucumber" width="100%"></td>
+          <td>خيار</td>
+          <td>Concombre</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('Concombre.mp3')">🔊</button></div></td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h3 id="الفواكه-les-fruits">الفواكه (Les Fruits)</h3>
+<p>والآن دعونا نتعلم أسماء بعض الفواكه باللغة الفرنسية. اضغط على الزر لسماع طريقة نطق الكلمة!</p>
+<table>
+  <thead>
+      <tr>
+          <th>الصورة</th>
+          <th>الاسم بالعربية</th>
+          <th>الاسم بالفرنسية</th>
+          <th>استمع للنطق</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><img src="/MMSite/images/apple.webp" alt="Apple" width="100%"></td>
+          <td>تفاح</td>
+          <td>Pomme</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('Pomme.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td><img src="/MMSite/images/banana.webp" alt="Banana" width="100%"></td>
+          <td>موز</td>
+          <td>Banane</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('Banane.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td><img src="/MMSite/images/strawberry.webp" alt="Strawberry" width="100%"></td>
+          <td>فراولة</td>
+          <td>Fraise</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('Fraise.mp3')">🔊</button></div></td>
+      </tr>
+      <tr>
+          <td><img src="/MMSite/images/orange.webp" alt="Orange" width="100%"></td>
+          <td>برتقال</td>
+          <td>Orange</td>
+          <td><div style="display: flex; justify-content: center;"><button onclick="playSound('Orange.mp3')">🔊</button></div></td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h3 id="صورة-توضيحية">صورة توضيحية:</h3>
+<div style="text-align: center;">
+    <img src="/MMSite/basket.webp" alt="الخضار والفواكه" width="100%">
+</div>
+<hr>
+<h3 id="نصيحة">نصيحة:</h3>
+<ul>
+<li>حاول أن تكرر أسماء الخضار والفواكه بصوت عالٍ، ثم استخدم الصور لتذكر الأسماء بسهولة.</li>
+<li>استمع للنطق الصوتي لتتعلم النطق الصحيح! 😊</li>
+</ul>
+</div>
+<script>
+function playSound(fileName) {
+    const audio = new Audio('/MMSite/audio/' + fileName);
+    audio.play();
+}
+</script>]]></content>
+        </item>
+        
+    </channel>
+</rss>
